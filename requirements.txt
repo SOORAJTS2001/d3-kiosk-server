@@ -1,0 +1,10 @@
+diffusers
+fastapi
+Pillow
+pydantic
+starlette
+torch
+uvicorn[standard]
+transformers
+accelerate
+xformers
